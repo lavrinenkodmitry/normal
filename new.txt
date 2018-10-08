@@ -1,6 +1,10 @@
 sadsa
 asdas
 asdas
+<<<<<<< HEAD
 asd
 sxc
 zxc
+=======
+asd
+>>>>>>> parent of 1420d32... Update new.txt
